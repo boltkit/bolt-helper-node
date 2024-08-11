@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "name": "@boltkit/bolt-helper",
-  "version": "0.0.1",
+  "name": "@boltkit/bolt-helper-node",
+  "version": "0.0.3",
   "description": "Bolt helper module to use within a bolt job",
   "main": "index.mjs",
   "scripts": {
