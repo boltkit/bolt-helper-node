@@ -1,8 +1,9 @@
 {
+  "type": "module",
   "name": "@boltkit/bolt-helper",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Bolt helper module to use within a bolt job",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
