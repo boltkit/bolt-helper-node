@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boltkit/node-bolt-helper.git"
+    "url": "git+https://github.com/boltkit/bolt-helper-node.git"
   },
   "author": "Dmitri Chapkine",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/boltkit/node-bolt-helper/issues"
+    "url": "https://github.com/boltkit/bolt-helper-node/issues"
   },
-  "homepage": "https://github.com/boltkit/node-bolt-helper#readme",
+  "homepage": "https://github.com/boltkit/bolt-helper-node#readme",
   "publishConfig": {
     "access": "public"
   }
