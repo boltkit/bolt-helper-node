@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/boltkit/node-bolt-helper/issues"
   },
-  "homepage": "https://github.com/boltkit/node-bolt-helper#readme"
+  "homepage": "https://github.com/boltkit/node-bolt-helper#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
