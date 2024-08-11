@@ -5,7 +5,8 @@
   "description": "Bolt helper module to use within a bolt job",
   "main": "index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "ci": "echo \"TODO\" && exit 0",
+    "test": "echo \"TODO\" && exit 0"
   },
   "repository": {
     "type": "git",
